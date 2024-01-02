@@ -17,3 +17,5 @@ Calculates the magnitude between two entities.
 Converts world coordinates to screen coordinates using the provided ViewMatrix.
 9. CalcRect
 Calculates a rectangle based on entity foot and head positions.
+
+https://raw.githubusercontent.com/yasin1337/AssaultCube-Aimbot-ESP/master/WH.png
