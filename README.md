@@ -1,3 +1,5 @@
+*Educational purposes*
+
 Features
 1. ReadLocalPlayer
 Retrieves information about the local player, including view angles.
