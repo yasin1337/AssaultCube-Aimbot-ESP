@@ -19,4 +19,6 @@ Converts world coordinates to screen coordinates using the provided ViewMatrix.
 Calculates a rectangle based on entity foot and head positions.
 ![Screenshot](WH.png)
 
+https://github.com/Massivetwat/swed32
 
+https://github.com/Massivetwat/ezOverLay.dll/tree/master/ezOverLay
