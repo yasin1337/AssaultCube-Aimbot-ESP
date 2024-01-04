@@ -1,5 +1,5 @@
 *Educational purposes*
-
+![Screenshot](WH.png)
 Features
 1. ReadLocalPlayer
 Retrieves information about the local player, including view angles.
@@ -19,7 +19,7 @@ Calculates the magnitude between two entities.
 Converts world coordinates to screen coordinates using the provided ViewMatrix.
 9. CalcRect
 Calculates a rectangle based on entity foot and head positions.
-![Screenshot](WH.png)
+
 
 https://github.com/Massivetwat/swed32
 
